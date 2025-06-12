@@ -1,5 +1,7 @@
 # JetBrains Augment无限续杯
 
+**20250615：更新插件v1.0.1,目前使用正常,可以多试试重新生成SessionId**
+
 ## 解决问题：设备受限，注册新账号使用提示如下
 ![img_1.png](img/img_1.png)
 
